@@ -8,16 +8,6 @@
 - ⚡ **Interests:** Python, Flask, AI Automation, Vibe Coding
 - 👨‍👧 **Life:** Father of a 9-year-old daughter
 
----
-
-### 🚀 Featured Projects
-這裡是我最近的 Vibe Coding 實作成果：
-
-- **[Eggs Price Tracker 🥚](https://github.com/petertseng0517/eggs)**:
-  一個用 Python 寫的蛋價資訊追蹤工具，使用爬蟲技術與簡單的資料視覺化，解決生活中的資訊焦慮。
-  
-- **LINE@ Ordering System 🍱**:
-  *(施工中/或放連結)* 使用 Flask + Render 建置的 LINE 點餐系統，包含完整的會員與訂單管理功能。
 
 ---
 
