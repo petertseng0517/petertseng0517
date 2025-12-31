@@ -16,5 +16,3 @@
 - [LinkedIn](https://www.linkedin.com/in/chian-wei-tseng/)
 - [Threads](https://www.threads.com/@petertseng_tw)
 - 📧 Email: (peter.qfx@gmail.com)
-
-![Peter's GitHub stats](https://github-readme-stats.vercel.app/api?username=petertseng0517&show_icons=true&theme=radical)
