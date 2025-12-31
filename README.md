@@ -1,18 +1,15 @@
-### Hi there, I'm Peter Tseng 👋
+### About me 👋
+**Web Administrator** at Hualien Tzu Chi Hospital | **Master's Student** in CSIE, NDHU.
+🚀 Passionate about leveraging **Python** & **GenAI (Vibe Coding)** to solve problems and drive digital transformation.
 
-我是 **花蓮慈濟醫院公傳室** 的網站維護工程師，目前也是 **國立東華大學資工系** 碩士在職專班學生。
-我熱衷於使用 **Python** 與 **GenAI (Vibe Coding)** 來解決工作與生活中的問題，並致力於用技術賦能數位轉型。
-
-- 🏥 **Current Work:** Hualien Tzu Chi Hospital (Public Communication Office)
-- 🎓 **Education:** Master's Candidate at NDHU CSIE (National Dong Hwa University)
-- ⚡ **Interests:** Python, Flask, AI Automation, Vibe Coding
-
+- 🏥 **Web Administrator** @ Public Communication Office, [Hualien Tzu Chi Hospital](https://hlm.tzuchi.com.tw/home/)
+- 💼 **Project Manager** (2019-2021) @ [Hualien County Smart Welfare Platform](https://welfare.hl.gov.tw/people)
 
 ---
 
 ### 📫 Connect with me
-歡迎交流 AI 技術與自動化應用的心得！
+Always open to connecting on AI tech and automation insights!
 
-- [LinkedIn](https://www.linkedin.com/in/chian-wei-tseng/)
-- [Threads](https://www.threads.com/@petertseng_tw)
-- 📧 Email: (peter.qfx@gmail.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/chian-wei-tseng/)
+- 🧵 [Threads](https://www.threads.net/@petertseng_tw)
+- 📧 Email: [peter.qfx@gmail.com](mailto:peter.qfx@gmail.com)
