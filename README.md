@@ -6,7 +6,6 @@
 - 🏥 **Current Work:** Hualien Tzu Chi Hospital (Public Communication Office)
 - 🎓 **Education:** Master's Candidate at NDHU CSIE (National Dong Hwa University)
 - ⚡ **Interests:** Python, Flask, AI Automation, Vibe Coding
-- 👨‍👧 **Life:** Father of a 9-year-old daughter
 
 
 ---
