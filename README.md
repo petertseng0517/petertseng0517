@@ -1,5 +1,5 @@
 ### 關於我
-<img src="曾建瑋-Peter-Tseng-Frontend-Engineer.jpg" alt="曾建瑋 (Peter Tseng) - 前端工程師個人照">
+<img src="曾建瑋-Peter-Tseng-Frontend-Engineer.jpg" alt="曾建瑋 (Peter Tseng) - 前端工程師個人照" width="500px">
 曾建瑋
 - 誤入奇途的熱血工程師 寫 Code 練功的碩士爸🧘‍♂️ 專長是用程式與 AIGC 消滅生活中的「麻煩事」
 - 白天慈濟醫院公傳，晚上為女兒努力跟上 AI 浪潮
