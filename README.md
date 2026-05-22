@@ -13,4 +13,4 @@ Turning ideas into production with **Python** and **Vibe Coding**. Focused on bu
 ### 📫 Connect with me
 Let's connect and chat about AI tech, automation, or full-CLI development!
 
-- [Facebook](https://www.facebook.com/petertsengtw) · [LinkedIn](https://www.linkedin.com/in/chian-wei-tseng/) · [Threads](https://www.threads.net/@petertseng_tw) · [Email](mailto:peter.qfx@gmail.com)
+- [Bluesky](https://bsky.app/profile/petertsengtw.bsky.social) · [Email](mailto:peter.qfx@gmail.com)
